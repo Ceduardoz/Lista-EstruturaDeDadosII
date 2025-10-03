@@ -1,5 +1,5 @@
 /**
-** Função: Função recursiva String revertida
+** Função: Função recursiva contagem de nós em lista ligada
 ** Autor: Carlos Eduardo
 ** Data: 29/09/2025
 ** Observações:

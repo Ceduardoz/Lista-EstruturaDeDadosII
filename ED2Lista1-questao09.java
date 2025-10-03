@@ -1,5 +1,5 @@
 /**
-** Função: Função recursiva String revertida
+** Função: Função recursiva cifra de César
 ** Autor: Carlos Eduardo
 ** Data: 29/09/2025
 ** Observações:
